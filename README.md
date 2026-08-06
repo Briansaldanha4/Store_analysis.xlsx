@@ -20,36 +20,36 @@ Created additional columns like Profit, Profit Margin, Year, Month, and Quarter 
 Data Analysis:
 The cleaned data was analyzed using Pivot Tables to answer important business questions.
 The analysis included:
-Total Sales by Region
-Total Sales by Category
-Total Sales by Product
-Monthly Sales Trend
-Top 10 Products by Sales
-Top Customers by Revenue
-Profit by Category
-Profit by Region
-Quantity Sold by Product
-Average Sales per Order
+Total Sales by Region,
+Total Sales by Category,
+Total Sales by Product,
+Monthly Sales Trend,
+Top 10 Products by Sales,
+Top Customers by Revenue,
+Profit by Category,
+Profit by Region,
+Quantity Sold by Product,
+Average Sales per Order.
 
 Dashboard Creation:
 An interactive dashboard was built using Pivot Charts and Slicers.
 The dashboard includes:
-Total Sales KPI
-Total Profit KPI
-Total Orders KPI
-Total Quantity Sold KPI
-Monthly Sales Trend (Line Chart)
-Sales by Category (Column Chart)
-Sales by Region (Pie Chart)
-Top 10 Products (Bar Chart)
-Profit by Category (Column Chart)
+Total Sales KPI,
+Total Profit KPI,
+Total Orders KPI,
+Total Quantity Sold KPI,
+Monthly Sales Trend (Line Chart),
+Sales by Category (Column Chart),
+Sales by Region (Pie Chart),
+Top 10 Products (Bar Chart),
+Profit by Category (Column Chart).
 
 Slicers were added to allow users to filter the dashboard by:
-Year
-Month
-Region
-Category
-Product
+Year,
+Month,
+Region,
+Category,
+Product.
 
 Key Insights:
 From the analysis, several useful business insights were identified:
