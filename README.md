@@ -128,16 +128,6 @@ Business Insights
 
 ---
 
-## 🚀 Future Improvements
-
-* Add Power BI version
-* Add automated data refresh
-* Add advanced profitability analysis
-* Add forecasting
-* Add customer segmentation
-
----
-
 ## 👤 Author
 
 **Brian Saldanha**
