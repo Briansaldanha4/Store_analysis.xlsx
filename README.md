@@ -1,84 +1,147 @@
-#This project is on a store data
------------------------------------------
-Sales Data Analysis and Dashboard in Microsoft Excel
+# 🛒 Store Sales Analysis Dashboard
 
-Overview:
-This project focuses on analyzing a sales dataset using only Microsoft Excel. The dataset was first cleaned to ensure accuracy and consistency, then analyzed using Pivot Tables and Pivot Charts. Finally, an interactive dashboard was created to visualize key business metrics and trends.
+## 📌 Project Overview
 
-Data Cleaning Process:
-Before starting the analysis, I cleaned the dataset to improve its quality and eliminate inconsistencies. The following steps were performed:
-Converted the dataset into an Excel Table for easier management.
-Checked the dataset for duplicate records and removed them using the Remove Duplicates feature.
-Identified missing values and either filled them where appropriate or removed incomplete records.
-Removed extra spaces from text fields using the TRIM() function.
-Standardized text formatting using PROPER() to ensure consistency in customer names, product names, and regions.
-Verified that all dates were in the correct date format.
-Converted numeric columns such as Sales, Cost, Quantity, and Profit into the appropriate number or currency format.
-Reviewed the dataset for invalid values such as negative sales or incorrect quantities and corrected them where necessary.
-Created additional columns like Profit, Profit Margin, Year, Month, and Quarter to support further analysis.
+This project is an **interactive sales analysis dashboard built using Microsoft Excel**.
 
-Data Analysis:
-The cleaned data was analyzed using Pivot Tables to answer important business questions.
-The analysis included:
-Total Sales by Region,
-Total Sales by Category,
-Total Sales by Product,
-Monthly Sales Trend,
-Top 10 Products by Sales,
-Top Customers by Revenue,
-Profit by Category,
-Profit by Region,
-Quantity Sold by Product,
-Average Sales per Order.
+The objective is to analyze store sales performance across different regions, categories, products, and time periods.
 
-Dashboard Creation:
-An interactive dashboard was built using Pivot Charts and Slicers.
-The dashboard includes:
-Total Sales KPI,
-Total Profit KPI,
-Total Orders KPI,
-Total Quantity Sold KPI,
-Monthly Sales Trend (Line Chart),
-Sales by Category (Column Chart),
-Sales by Region (Pie Chart),
-Top 10 Products (Bar Chart),
-Profit by Category (Column Chart).
+The dashboard converts raw sales data into meaningful **KPIs and visual insights**.
 
-Slicers were added to allow users to filter the dashboard by:
-Year,
-Month,
-Region,
-Category,
-Product.
+---
 
-Key Insights:
-From the analysis, several useful business insights were identified:
-Identified the best-performing products based on total sales.
-Compared sales performance across different regions.
-Analyzed monthly sales trends to identify seasonal patterns.
-Determined the most profitable product categories.
-Identified the customers contributing the highest revenue.
-Evaluated overall business performance using key performance indicators (KPIs).
+## 🎯 Business Objectives
 
+The dashboard helps answer:
 
+* What are the total sales?
+* How much profit was generated?
+* Which regions generate the most sales?
+* Which categories perform best?
+* Which products generate the highest revenue?
+* How do sales change over time?
+* Which products contribute the most to profit?
 
+---
 
+## 🛠️ Tools Used
 
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Excel formulas
+* Data Cleaning
+* Data Transformation
 
+---
 
+## 📊 Dashboard KPIs
 
+The dashboard tracks:
 
+* 💰 Total Sales
+* 📈 Total Profit
+* 📦 Total Quantity
+* 🧾 Total Orders
+* 📊 Profit Margin
 
+---
 
+## 📈 Dashboard Analysis
 
+### Sales Analysis
 
+Analyzed sales by:
 
+* Region
+* Category
+* Product
+* Month
+* Year
 
+### Profit Analysis
 
+Analyzed:
 
+* Total Profit
+* Profit by Category
+* Profit by Region
+* Product Profitability
 
+### Product Analysis
 
+Identified:
 
+* Top-performing products
+* Low-performing products
+* High-revenue products
+* High-profit products
 
+---
 
+## 🎛️ Interactive Features
 
+The dashboard includes interactive filters/slicers for:
+
+* Year
+* Region
+* Category
+* Product
+
+Users can dynamically filter the dashboard to explore different segments.
+
+---
+
+## 🔄 Data Analysis Workflow
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Data Transformation
+   ↓
+Pivot Tables
+   ↓
+Pivot Charts
+   ↓
+Interactive Slicers
+   ↓
+Dashboard
+   ↓
+Business Insights
+```
+
+---
+
+## 💡 Skills Demonstrated
+
+* Excel Data Analysis
+* Dashboard Development
+* Pivot Tables
+* Pivot Charts
+* Data Cleaning
+* KPI Development
+* Business Reporting
+* Data Visualization
+
+---
+
+## 🚀 Future Improvements
+
+* Add Power BI version
+* Add automated data refresh
+* Add advanced profitability analysis
+* Add forecasting
+* Add customer segmentation
+
+---
+
+## 👤 Author
+
+**Brian Saldanha**
+
+📊 Data Analyst | Business Analytics
+
+[LinkedIn](https://linkedin.com/in/brian-saldanha4/) • [Portfolio](https://briansaldanha4.github.io/briansaldanha.github.io/)
